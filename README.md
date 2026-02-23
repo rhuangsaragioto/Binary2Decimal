@@ -109,9 +109,9 @@ Usage: ./Bin2Dec binary_number | binary_number - a string containing only 1s and
 
 I am the sole author of this project, you can find some of my information below.
 
-LeetCode - [@rhuangsaragioto](https://leetcode.com/u/rhuangsaragioto/)
-GitHub - [@rhuangsaragioto](https://github.com/rhuangsaragioto)
-LinkedIn - [@rhuansaragioto](https://www.linkedin.com/in/rhuan-saragioto-4043662aa/)
+- LeetCode - [@rhuangsaragioto](https://leetcode.com/u/rhuangsaragioto/)
+- GitHub - [@rhuangsaragioto](https://github.com/rhuangsaragioto)
+- LinkedIn - [@rhuansaragioto](https://www.linkedin.com/in/rhuan-saragioto-4043662aa/)
 
 ## Version History
 
