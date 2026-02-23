@@ -35,6 +35,7 @@ int main(int argc, const char* argv[]) {
             binary = argv[1];
         else {
             std::cout << WRONG_INPUT << USAGE << std::endl;
+            return 1;
         }
     }
 
